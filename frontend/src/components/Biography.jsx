@@ -8,29 +8,23 @@ const Biography = ({imageUrl}) => {
           <img src={imageUrl} alt="whoweare" />
         </div>
         <div className="banner">
-          <p>Biography</p>
-          <h3>Who We Are</h3>
+          <p id="Bio">Biography</p>
+          <h3 id="WWA ?">Who We Are ? </h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            blanditiis sequi aperiam. Debitis fugiat harum ex maxime illo
-            consequatur mollitia voluptatem omnis nihil nesciunt beatae esse
-            ipsam, sapiente totam aspernatur porro ducimus aperiam nisi. Ex
-            magnam voluptatum consectetur reprehenderit fugiat recusandae aut
-            similique illum natus velit, praesentium nostrum nesciunt. Deleniti,
-            nesciunt laboriosam totam iusto!
+          Rajiv Gandhi Medical Services (RGMS): Compassionate Care for a Healthier Tomorrow
+          Founded in honor of the late Prime Minister Rajiv Gandhi.
+          State-of-the-art facility blending expertise with empathy.
+          Personalized health solutions for each patient.
+          Quality, safety, and community engagement at our core.
+          Join us on this journey toward wellness!
           </p>
-          <p>We are all in 2024!</p>
-          <p>We are working on a MERN STACK PROJECT.</p>
+          <p>Our Commitment</p>
+          <p>Quality and Safety: RGMS adheres to the highest standards of quality and safety. Your well-being is our priority.</p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
-            assumenda exercitationem accusamus sit repellendus quo optio dolorum
-            corporis corrupti. Quas similique vel minima veniam tenetur
-            obcaecati atque magni suscipit laboriosam! Veniam vitae minus nihil
-            cupiditate natus provident. Ex illum quasi pariatur odit nisi
-            voluptas illo qui ipsum mollitia. Libero, assumenda?
+          Community Engagement: Beyond hospital walls, we engage with our community—conducting health camps, awareness drives, and outreach programs.
           </p>
-          <p>Lorem ipsum dolor sit amet!</p>
-          <p>Coding is fun!</p>
+          <p>Research and Innovation: We stay at the forefront of medical advancements, contributing to scientific research and innovation.</p>
+          <p>Join Our Journey ❤️ </p>
         </div>
       </div>
     </>

@@ -48,8 +48,7 @@ const Login = () => {
         <h2>Sign In</h2>
         <p>Please Login To Continue</p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat culpa
-          voluptas expedita itaque ex, totam ad quod error?
+          Carefully enter you  credentials for successfull login.
         </p>
         <form onSubmit={handleLogin}>
           <input
